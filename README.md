@@ -4,4 +4,4 @@
 
 <p> the project contains a single page </p>
 
-![](ekran.gif)
+![](screen.gif)
